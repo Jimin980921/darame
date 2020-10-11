@@ -19,7 +19,7 @@ __제안배경__: 기존의 사진 편집 어플은 사용자가 수동으로 �
 
 - __주요 활용기술__:
   - instance segmentation: 
-   1. [segmentation 관련 스터디 수행](https://github.com/Jimin980921/Image_Segmentation)
+   1. [segmentation 관련 스터디 수행](https://github.com/Jimin980921/DeepLearning_study)
   
   - mosaic: 
    1. [참고사이트](https://paiai.tistory.com/13)
